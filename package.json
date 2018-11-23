@@ -2,7 +2,7 @@
   "name": "starter-app",
   "version": "1.0.0",
   "description": "starter application upsideo",
-  "author": "Cory House",
+  "author": "Test",
   "license": "MIT",
   "scripts": {
       "start": "npm-run-all --parallel open:src lint:watch",
